@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\c++\lab5\lab5\source.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab5.vcxproj -> F:\c++\Lab5\Debug\Lab5.exe
+  Lab5.vcxproj -> F:\c++\Lab5\Debug\Lab5.pdb (Partial PDB)
