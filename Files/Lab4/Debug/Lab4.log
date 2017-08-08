@@ -1,0 +1,6 @@
+﻿  Lab4.cpp
+f:\c++\lab4\lab4\lab4.cpp(18): warning C4101: lpLastWriteTime: неиспользованная локальная переменная
+f:\c++\lab4\lab4\lab4.cpp(18): warning C4101: lpCreationTime: неиспользованная локальная переменная
+f:\c++\lab4\lab4\lab4.cpp(18): warning C4101: lpLastAccessTime: неиспользованная локальная переменная
+  Lab4.vcxproj -> F:\c++\Lab4\Debug\Lab4.exe
+  Lab4.vcxproj -> F:\c++\Lab4\Debug\Lab4.pdb (Partial PDB)
