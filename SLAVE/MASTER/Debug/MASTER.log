@@ -1,0 +1,5 @@
+﻿  Master.cpp
+f:\c++\slave\master\master.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+f:\c++\slave\master\master.cpp(14): warning C4101: dwExitCode: неиспользованная локальная переменная
+  MASTER.vcxproj -> F:\c++\SLAVE\Debug\MASTER.exe
+  MASTER.vcxproj -> F:\c++\SLAVE\Debug\MASTER.pdb (Partial PDB)
