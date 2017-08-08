@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(76): warning C4101: lpSectorsPerCluster: неиспользованная локальная переменная
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(78): warning C4101: lpNumberOfFreeClusters: неиспользованная локальная переменная
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(77): warning C4101: lpBytesPerSector: неиспользованная локальная переменная
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(75): warning C4101: lpTotalNumberOfClusters: неиспользованная локальная переменная
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(131): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(133): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(135): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(137): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(139): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(141): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(143): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\alicep\documents\visual studio 2017\projects\lab3_files\lab3_files\source.cpp(145): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  Lab3_Files.vcxproj -> C:\Users\AliceP\Documents\Visual Studio 2017\Projects\Lab3_Files\Debug\Lab3_Files.exe
+  Lab3_Files.vcxproj -> C:\Users\AliceP\Documents\Visual Studio 2017\Projects\Lab3_Files\Debug\Lab3_Files.pdb (Partial PDB)
